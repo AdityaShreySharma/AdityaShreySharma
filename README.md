@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/AdityaShreySharma/Data-Structures-and-Algorithms)
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaShreySharma](https://github.com/AdityaShreySharma)
 
 - 📫 How to reach me **adityashrey.sharma2019@vitstudent.ac.in**
